@@ -3,6 +3,7 @@ package org.example;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+// Mice and holes
 public class Exercise1 {
 
    public static void run() {
