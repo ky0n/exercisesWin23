@@ -7,7 +7,9 @@ public class Main {
       System.out.println();
       var exer3 = new Exercise3();
       exer3.run();*/
-      var exer4 = new Exercise4();
-      exer4.run();
+//      var exer4 = new Exercise4();
+//      exer4.run();
+      var exer5 = new Exercise5();
+      exer5.run();
    }
 }
